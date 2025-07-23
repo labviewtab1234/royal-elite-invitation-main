@@ -57,7 +57,7 @@ const VipLandingPage: React.FC = () => {
 
   const handleCtaClick = () => {
     // Replace with actual referral link
-    window.open('[INSERT MY REFERRAL LINK HERE]', '_blank');
+    window.open('https://royalcruiserclub.incruises.com/signup', '_blank');
   };
 
   const benefits = [
